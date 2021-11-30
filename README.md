@@ -31,7 +31,7 @@ Other Noteable Features
 * `и` has replaced `;`/`:`
 * `<` and `>` have been replaced by `;` and `.`
 * `{` and `}` have been removed.
-* `[` and `]` are now mapped to `[` &`Shift+]`
+* `[` and `]` are now mapped to `[` and `Shift+]`
 
 ### "Dead Keys"
 This keyboard makes use of the "dead key" feature of Windows' keyboard layouts. A dead key is essentially just one key that alters the output of another. For instance, pressing `` ` `` then `e` might generate `è`.
