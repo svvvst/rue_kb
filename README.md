@@ -27,6 +27,12 @@ Most notably:
 
 Note: I use the term "transliteration" loosely: these mappings don't strictly follow any established scheme, i.e. `c` produces `ч` instead of `ц`.
 
+Other Noteable Features
+* `и` has replaced `;`/`:`
+* `<` and `>` have been replaced by `;` and `.`
+* `{` and `}` have been removed.
+* `[` and `]` are now mapped to `[` &`Shift+]`
+
 ### "Dead Keys"
 This keyboard makes use of the "dead key" feature of Windows' keyboard layouts. A dead key is essentially just one key that alters the output of another. For instance, pressing `` ` `` then `e` might generate `è`.
 This feature is employed in rue_kb to allow the 30+ letters of the Rusyn alphabets to fit on a standard keyboard.
