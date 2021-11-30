@@ -8,7 +8,7 @@ At this point there is only a Lemko-Rusyn build.
 All layouts were created through [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134).
 
 ## Installation
-* Visit the release page.
+* Go to the [latest release](https://github.com/svvvst/rue_kb/releases/latest)
 * Download the latest `.zip` file.
 * Unzip
 * Run `setup.exe`
