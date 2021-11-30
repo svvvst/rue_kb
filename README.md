@@ -25,16 +25,29 @@ Most notably:
 * `й` is mapped `j` to facilitate use as a dead key (explained below).
 * `ь` is mapped to `y`.
 
-Note: I use the term "transliteration" loosely: these mappings don't strictly follow any established scheme, e.g. `c` produces `ч` instead of `ц`.
+Note: I use the term "transliteration" loosely: these mappings don't strictly follow any established scheme, i.e. `c` produces `ч` instead of `ц`.
 
 ### "Dead Keys"
 This keyboard makes use of the "dead key" feature of Windows' keyboard layouts. A dead key is essentially just one key that alters the output of another. For instance, pressing `` ` `` then `e` might generate `è`.
 This feature is employed in rue_kb to allow the 30+ letters of the Rusyn alphabets to fit on a standard keyboard.
 
+#### List of dead keys:
+* `й` produces a corresponding vowels jotation based on its *sound* (not appearance):
+  * `a` becomes `я`
+  * `e` becomes `є`
+  * `і` becomes `ї`
+  * `o` becomes `ё`
+  * `у` becomes `ю`
 
+* `'` (apostrophe) is a general modifier:
+  * `г` becomes `ґ`
+  * `ь` becomes `ъ`
+  * `ш` becomes `щ`
+  * Additional mappings (`ё`, `ы`, `ї`) which may be expanded or removed in a future version.
 
-
-
+#### Deprecated Dead Keys
+* `і` + `o` becomes the ligature `ю`
+* `ь` + `і` becomes the ligature `ы`
 
 
 
