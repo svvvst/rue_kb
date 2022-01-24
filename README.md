@@ -53,4 +53,4 @@ AltGr is a general modifier:
 * `г` becomes `ґ`
 * `ь` becomes `ъ`
 * `ш` becomes `щ`
-* Additional mappings (`ё`,`ї`,`ю`) which may be expanded or removed in a future version.
+* Additional mappings for jotated vowels: `є`,`ё`,`ї`,`ю`
