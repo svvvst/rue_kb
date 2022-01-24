@@ -16,6 +16,8 @@ All layouts were created through [Microsoft Keyboard Layout Creator (MSKLC)](htt
 ## Usage
 ### Layout
 ![](images/rue_kb.png)
+#### AltGr Layer
+![](images/altgr.png)
 
 The layout adheres very closely to a typical QWERTY layout in that the majority of latin characters are replaced by INFORMAL cyrillic transliterations: `а` replaces `a`, `с` replaces `s`, `в` replaces `v`, and so on. However, from the image above you can see that there are a few exceptions to this.
 
